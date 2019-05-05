@@ -20,4 +20,4 @@ We used scikit-learn 10-digits dataset (sklearn.datasets.load_digits)
 
 ### supported by plots for best hyperparameter we get :
 
-<img align="left" width="400" height="300" src="Images/step0003.jpg">
+<img align="left" width="400" height="300" src="Images/Plots.jpg">
