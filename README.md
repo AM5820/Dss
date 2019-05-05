@@ -7,7 +7,7 @@ This is a three simple machine learning algorithms for decision support systems 
 * k-nearest neighbor classifier
 * Decision Tree
 
-We used scikit-learn 10-digits dataset (sklearn.datasets.load_digits() )
+We used scikit-learn 10-digits dataset (sklearn.datasets.load_digits )
 
 
 | Key | Description |
